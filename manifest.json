@@ -20,6 +20,16 @@
                      "sha256":  "a724d0c40b0a0250baf13f0d34d23696dee6382c3173eefa695bffdc13fd679d",
                      "size":  108830309,
                      "exe":  "JMPy.exe"
+                 },
+                 {
+                     "id":  "hub",
+                     "name":  "Duuk Hub",
+                     "version":  "0.1.3",
+                     "tag":  "hub-v0.1.3",
+                     "asset":  "duukhub-0.1.3-win64.zip",
+                     "sha256":  "356a9493be00399ac6337b86edf0d099ee45785e7b958e6ab1a5e007b9501433",
+                     "size":  3099379,
+                     "exe":  "DuukHub.exe"
                  }
              ]
 }
