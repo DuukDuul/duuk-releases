@@ -1,0 +1,25 @@
+{
+    "schema":  1,
+    "apps":  [
+                 {
+                     "id":  "duukcad",
+                     "name":  "DuukCAD",
+                     "version":  "0.2.13",
+                     "tag":  "duukcad-v0.2.13",
+                     "asset":  "duukcad-0.2.13-win64.zip",
+                     "sha256":  "86924a12c5351c3ee97f91c8b1f85c1fcbdf2eb491161099df3a7c8ec0465014",
+                     "size":  42729033,
+                     "exe":  "duukcad.exe"
+                 },
+                 {
+                     "id":  "jmpy",
+                     "name":  "JMPy",
+                     "version":  "0.5.0",
+                     "tag":  "jmpy-v0.5.0",
+                     "asset":  "jmpy-0.5.0-win64.zip",
+                     "sha256":  "a724d0c40b0a0250baf13f0d34d23696dee6382c3173eefa695bffdc13fd679d",
+                     "size":  108830309,
+                     "exe":  "JMPy.exe"
+                 }
+             ]
+}
